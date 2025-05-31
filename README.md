@@ -27,4 +27,4 @@ A simple static weather site that allows users to check current weather conditio
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/weather-site.git
+   git clone https://github.com/OptimistGuy03/Weather-Site
